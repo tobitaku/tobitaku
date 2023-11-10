@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 👋
+
+Ich bin ein Software-Entwickler im Web Bereich mit 4 Jahren Erfahrung. Derzeit arbeite ich mit React und TypeScript.
+
+🔭 Ich bin interessiert an ...
+- Next.js
+- TypeScript
+- Tailwind
+- tRPC
+- Prisma
+- GraphQL
+- Node.js
+- PostgreSQL
 
 <!--
 **tobitaku/tobitaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
