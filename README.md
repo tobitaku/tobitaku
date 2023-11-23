@@ -7,10 +7,6 @@ Ich bin ein Software-Entwickler im Web Bereich mit 4 Jahren Erfahrung. Derzeit a
 - TypeScript
 - Tailwind
 - tRPC
-- Prisma
-- GraphQL
-- Node.js
-- PostgreSQL
 
 <!--
 **tobitaku/tobitaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
