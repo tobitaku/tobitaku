@@ -1,5 +1,3 @@
-### Hi 👋
-
 Ich bin ein Software-Entwickler im Web Bereich mit 4 Jahren Erfahrung. Derzeit arbeite ich mit React und TypeScript.
 
 🔭 Ich bin interessiert an ...
